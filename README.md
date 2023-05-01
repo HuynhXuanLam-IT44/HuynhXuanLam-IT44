@@ -85,9 +85,9 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=10-days-of-git-and-github&theme=merko" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/10-days-of-git-and-github/">
+<a href="https://github.com/HuynhXuanLam-IT44/shopphone-client/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=10-days-of-git-and-github&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=shopphone-client&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/HuynhXuanLam-IT44/JavaScript-Loops/">
