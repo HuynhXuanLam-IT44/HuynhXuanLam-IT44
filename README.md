@@ -42,7 +42,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 </a>    
 <a href="https://github.com/HuynhXuanLam-IT44/World-Countries-Data-Api/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=World-Countries-Data-Api&theme=merko" />
+  <img align="center" src="[https://github.com/HuynhXuanLam-IT44/World-Countries-Data-Api.git]" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
