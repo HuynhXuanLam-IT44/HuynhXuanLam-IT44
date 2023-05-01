@@ -16,9 +16,10 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 - 👀 : Here is <a href="https://www.ltp110.tk">my personal website</a>
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
 - ❤️ : I'm passionate about:
+  - 💫Data Science
   - 🔐 Cyber Security
-  - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
+  - 🪐 Operating Systems (Windows & Linux)
 
 <span>[<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="125">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)</span>
 <span>[<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="125">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)</span>
