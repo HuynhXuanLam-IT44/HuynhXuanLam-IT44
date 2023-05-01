@@ -35,10 +35,9 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HuynhXuanLam-IT44&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhXuanLam-IT44&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- <a href="https://github.com/HuynhXuanLam-IT44/Bert---Covid-Sentiment-Classification/">
+<a href="https://github.com/HuynhXuanLam-IT44/Bert---Covid-Sentiment-Classification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Bert---Covid-Sentiment-Classification&theme=radical" /> -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Bert---Covid-Sentiment-Classification&theme=radical" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
