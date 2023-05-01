@@ -38,7 +38,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 <a href="https://github.com/HuynhXuanLam-IT44/Bert---Covid-Sentiment-Classification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Bert---Covid-Sentiment-Classification&theme=radical" />
-</a>    
+</a>
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
