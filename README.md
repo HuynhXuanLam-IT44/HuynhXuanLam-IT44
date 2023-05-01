@@ -166,7 +166,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuynhXuanLam-IT44&">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuynhXuanLam-IT44">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuynhXuanLam-IT44&theme=dracula"/>
         </a>
       </th>
