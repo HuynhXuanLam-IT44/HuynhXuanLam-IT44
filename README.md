@@ -63,58 +63,58 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=ViHOS&theme=cobalt" />
 </a>
 
-<a href="https://github.com/uvipen/AirGesture/">
+<a href="https://github.com/HuynhXuanLam-IT44/30-Days-Of-React/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=30-Days-Of-React&theme=synthwave" />
 </a>     
-<a href="https://github.com/uvipen/Yolo-v2-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/30-Days-Of-Python/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=30-Days-Of-Python&theme=highcontrast" />
 </a>
 
-<a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/30-Days-Of-JavaScript/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=30-Days-Of-JavaScript&theme=dracula" />
 </a>    
-<a href="https://github.com/uvipen/Photomosaic-generator/">
+<a href="https://github.com/HuynhXuanLam-IT44/30-Days-Of-HTML/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=30-Days-Of-HTML&theme=radical" />
 </a>
 
-<a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
+<a href="https://github.com/uHuynhXuanLam-IT44/10-days-of-git-and-github/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=10-days-of-git-and-github&theme=merko" />
 </a>    
-<a href="https://github.com/uvipen/SSD-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/10-days-of-git-and-github/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=10-days-of-git-and-github&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/uvipen/Contra-PPO-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/JavaScript-Loops/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=JavaScript-Loops&theme=dark" />
 </a>    
-<a href="https://github.com/uvipen/Deeplab-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/React-Course/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=React-Course&theme=onedark" />
 </a>
 
-<a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/JavaScript-for-Everyone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=JavaScript-for-Everyone&theme=cobalt" />
 </a>    
-<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
+<a href="https://github.com/HuynhXuanLam-IT44/NLP-Vietnamese-progress/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=NLP-Vietnamese-progress&theme=synthwave" />
 </a>
 
-<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/data-analysis-with-python-summer-2021/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=data-analysis-with-python-summer-2021&theme=highcontrast" />
 </a>    
-<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
+<a href="https://github.com/HuynhXuanLam-IT44/UIT-ViSD4SA/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=UIT-ViSD4SA&theme=dracula" />
 </a>
 
 ## 🏆GitHub Trophies
