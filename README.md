@@ -33,7 +33,6 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 
 # 📊GitHub Stats :
 ![Lam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HuynhXuanLam-IT44&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-![](https://github-readme-stats.vercel.app/api?username=HuynhXuanLam-IT44&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhXuanLam-IT44&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="https://github.com/HuynhXuanLam-IT44/World-Countries-Data-Api/">
