@@ -38,7 +38,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 
 <a href="https://github.com/HuynhXuanLam-IT44/World-Countries-Data-Api/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=HuynhXuanLam-IT44&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=World-Countries-Data-Api&theme=radical" />
 </a>
 <a href="https://github.com/HuynhXuanLam-IT44/Datasets-for-Sentiment-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
