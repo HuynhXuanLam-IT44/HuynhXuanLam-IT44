@@ -187,8 +187,8 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
     </tr>
   </tbody>
 </table>
-
+<!-- 
 ### 😂Random Dev Meme
 <img src="https://www0.assets.heroku.com/assets/products/platform-86ed035335ac2a59e85e00773b18ec6baa851f2e37fd98f1c0237f609423eca9.png" width="256px"/>
 
----
+--- -->
