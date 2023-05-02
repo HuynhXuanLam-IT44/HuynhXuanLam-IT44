@@ -33,7 +33,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lamhuynhxuan21/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/lamhuynh04042001/) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Zealousideal_Diet673)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/HunhXunLm1) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HunhXunLm1) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCgHESQelRtbYqXFTAicI2fA)
 [![GoogleScholar](https://img.shields.io/twitter/url?label=GScholar&logo=GoogleScholar&url=https://scholar.google.com.au/citations?user=R9TQh5gAAAAJ)](https://scholar.google.com.au/citations?user=R9TQh5gAAAAJ)
 
