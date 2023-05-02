@@ -125,9 +125,6 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=UIT-ViSD4SA&theme=dracula" />
 </a>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=HuynhXuanLam-IT44&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
