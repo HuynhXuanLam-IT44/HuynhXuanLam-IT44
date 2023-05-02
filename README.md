@@ -146,7 +146,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
       </td>
     </tr>
   </tbody>
-  <tbody>
+<!--   <tbody>
     <tr>
       <td>
         <a href="https://activity-graph.herokuapp.com/graph?username=HuynhXuanLam-IT44">
@@ -154,7 +154,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
         </a>
       </td>
     </tr>
-  </tbody>
+  </tbody> -->
 </table>
 
 <table>
