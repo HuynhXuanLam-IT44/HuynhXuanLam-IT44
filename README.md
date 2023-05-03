@@ -15,18 +15,11 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is <a href="https://www.ltp110.tk">my personal website</a>
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
-- ⚡ : Fun Fact I love Psychology, Numerology 🛰️.
+- ⚡ : I love Psychology, Numerology 🛰️.
 - ❤️ : I'm passionate about:
   - 💫Data Science
-  - 🔐 Cyber Security
   - 🖥️ Website Developer
   - 🪐 Operating Systems (Windows & Linux)
-
-
-<span>[<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="125">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)</span>
-<span>[<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="125">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)</span>
-<span>[<img src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="125">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)</span>
-
 
 ## 📫 How to reach me: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/channels/@xunn.lxm44) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huynhxuanlamLXM/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tu.sach_tri.thuc/)
