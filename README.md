@@ -3,7 +3,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Lam Huynh. I am a Software Engineer, majoring in Information Technology. I am interested in topics: Programming language, Software Requirements. Software Design. Software Constructions.
 
-In addition, I am a Computer Science Engineer. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning. All use tools with the most popular and relevant programming languages.<br>
+In addition, I am a Computer Science Engineer. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 
 
 > [![View count](https://visitcount.itsvg.in/api?id=HuynhXuanLam-IT44&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=HuynhXuanLam-IT44)
