@@ -1,4 +1,3 @@
-### Hi there, I'm HXL ✔️
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Lam Huynh. I am a Software Engineer, majoring in Information Technology. I am interested in topics: Programming language, Software Requirements. Software Design. Software Constructions.
 
@@ -11,6 +10,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Computer+Science+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
 
+### Hi there, I'm HXL ✔️
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is <a href="https://www.ltp110.tk">my personal website</a>
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
