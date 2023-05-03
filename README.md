@@ -1,4 +1,3 @@
-### `$ whoami`
 ### Hi there, I'm HXL ✔️
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Lam Huynh. I am a Software Engineer, majoring in Information Technology. I am interested in topics: Programming language, Software Requirements. Software Design. Software Constructions.
