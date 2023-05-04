@@ -72,6 +72,15 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Datasets-for-Sentiment-Analysis&theme=gruvbox" />
 </a>
 
+<a href="https://github.com/HuynhXuanLam-IT44/World-Countries-Data-Api/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=World-Countries-Data-Api&theme=highcontrast" />
+</a>    
+<a href="https://github.com/HuynhXuanLam-IT44/NLP-Vietnamese-progress/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=NLP-Vietnamese-progress&theme=dracula" />
+</a>
+
 <a href="https://github.com/HuynhXuanLam-IT44/shopphone-client/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=shopphone-client&theme=dark" />
@@ -106,15 +115,6 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 <a href="https://github.com/HuynhXuanLam-IT44/NLP-Vietnamese-progress/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=NLP-Vietnamese-progress&theme=synthwave" />
-</a>
-
-<a href="https://github.com/HuynhXuanLam-IT44/World-Countries-Data-Api/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=World-Countries-Data-Api&theme=highcontrast" />
-</a>    
-<a href="https://github.com/HuynhXuanLam-IT44/NLP-Vietnamese-progress/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=NLP-Vietnamese-progress&theme=dracula" />
 </a>
 
 <a href="https://github.com/HuynhXuanLam-IT44/30VNFoods/">
