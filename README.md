@@ -117,6 +117,15 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=UIT-ViSD4SA&theme=dracula" />
 </a>
 
+<a href="https://github.com/HuynhXuanLam-IT44/30VNFoods/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=30VNFoods&theme=gruvbox" />
+</a>    
+<a href="https://github.com/HuynhXuanLam-IT44/Vietnamese-Pos-Tagging/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Vietnamese-Pos-Tagging&theme=dark" />
+</a>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
