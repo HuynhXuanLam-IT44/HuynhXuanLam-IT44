@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Lam Huynh. I am a Software Engineer, majoring in Information Technology. I am interested in topics: Programming language, Software Requirements. Software Design. Software Constructions.
+My name is Lam Huynh. I am a Software Engineer, majoring in Information Technology. I am interested in topics: Programming language. Software Requirements. Software Design. Software Constructions.
 
 In addition, I am a Computer Science Engineer. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 
