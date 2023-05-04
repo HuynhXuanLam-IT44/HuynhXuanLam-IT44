@@ -8,7 +8,7 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Computer+Science+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
 
 ### Hi there, I'm HXL ✔️
 - 🇻🇳 : I'm from VietNam
