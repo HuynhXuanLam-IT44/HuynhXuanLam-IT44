@@ -108,13 +108,13 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=30-Days-Of-HTML&theme=radical" />
 </a>
 
-<a href="https://github.com/HuynhXuanLam-IT44/JavaScript-for-Everyone/">
+<a href="https://github.com/HuynhXuanLam-IT44/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=JavaScript-for-Everyone&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=ASCII-generator&theme=cobalt" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/NLP-Vietnamese-progress/">
+<a href="https://github.com/HuynhXuanLam-IT44/shopphone-client/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=NLP-Vietnamese-progress&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=shopphone-client&theme=synthwave" />
 </a>
 
 <a href="https://github.com/HuynhXuanLam-IT44/30VNFoods/">
