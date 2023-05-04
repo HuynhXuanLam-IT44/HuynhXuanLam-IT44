@@ -36,31 +36,31 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 ![Lam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HuynhXuanLam-IT44&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhXuanLam-IT44&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/HuynhXuanLam-IT44/World-Countries-Data-Api/">
+<a href="https://github.com/HuynhXuanLam-IT44/WebBanHang_PHP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=World-Countries-Data-Api&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=WebBanHang_PHP&theme=radical" />
 </a>
 <a href="https://github.com/HuynhXuanLam-IT44/Datasets-for-Sentiment-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Datasets-for-Sentiment-Analysis&theme=merko" />
 </a>
 
-<a href="https://github.com/HuynhXuanLam-IT44/ASCII-generator/">
+<a href="https://github.com/HuynhXuanLam-IT44/noor-coffee-v1.0/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=ASCII-generator&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=noor-coffee-v1.0&theme=gruvbox" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://github.com/HuynhXuanLam-IT44/noor-coffee-v2.0/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Flappy-bird-deep-Q-learning-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=noor-coffee-v2.0&theme=dark" />
 </a>
 
-<a href="https://github.com/HuynhXuanLam-IT44/BERT-Covid-Sentiment-Classification/">
+<a href="https://github.com/HuynhXuanLam-IT44/React-corona-tracker-v1.0/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=BERT-Covid-Sentiment-Classification&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=React-corona-tracker-v1.0&theme=onedark" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/ViHOS/">
+<a href="https://github.com/HuynhXuanLam-IT44/React-corona-tracker-v2/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=ViHOS&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=React-corona-tracker-v2&theme=cobalt" />
 </a>
 
 <a href="https://github.com/uHuynhXuanLam-IT44/BERT-Covid-Sentiment-Classification/">
@@ -85,9 +85,9 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=shopphone-client&theme=dark" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/React-Course/">
+<a href="https://github.com/HuynhXuanLam-IT44/Flappy-bird-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=React-Course&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
 </a>
 
 <a href="https://github.com/HuynhXuanLam-IT44/30-Days-Of-React/">
@@ -112,9 +112,9 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=ASCII-generator&theme=cobalt" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/shopphone-client/">
+<a href="https://github.com/HuynhXuanLam-IT44/ViHOS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=shopphone-client&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=ViHOS&theme=synthwave" />
 </a>
 
 <a href="https://github.com/HuynhXuanLam-IT44/30VNFoods/">
