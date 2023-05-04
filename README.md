@@ -63,18 +63,18 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=ViHOS&theme=cobalt" />
 </a>
 
-<a href="https://github.com/uHuynhXuanLam-IT44/10-days-of-git-and-github/">
+<a href="https://github.com/uHuynhXuanLam-IT44/BERT-Covid-Sentiment-Classification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=10-days-of-git-and-github&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=BERT-Covid-Sentiment-Classification&theme=merko" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/shopphone-client/">
+<a href="https://github.com/HuynhXuanLam-IT44/Datasets-for-Sentiment-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=shopphone-client&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=Datasets-for-Sentiment-Analysis&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/HuynhXuanLam-IT44/JavaScript-Loops/">
+<a href="https://github.com/HuynhXuanLam-IT44/shopphone-client/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=JavaScript-Loops&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=shopphone-client&theme=dark" />
 </a>    
 <a href="https://github.com/HuynhXuanLam-IT44/React-Course/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -112,9 +112,9 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=World-Countries-Data-Api&theme=highcontrast" />
 </a>    
-<a href="https://github.com/HuynhXuanLam-IT44/10-days-of-git-and-github/">
+<a href="https://github.com/HuynhXuanLam-IT44/NLP-Vietnamese-progress/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=10-days-of-git-and-github&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhXuanLam-IT44&repo=NLP-Vietnamese-progress&theme=dracula" />
 </a>
 
 <a href="https://github.com/HuynhXuanLam-IT44/30VNFoods/">
