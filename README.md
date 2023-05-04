@@ -16,8 +16,8 @@ In addition, I am a Computer Science Engineer. I am interested in the following 
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
 - ⚡ : I love Psychology, Numerology 🛰️.
 - ❤️ : I'm passionate about:
-  - 💫Data Science
   - 🖥️ Website Developer
+  - 💫Data Science
   - 🪐 Operating Systems (Windows & Linux)
 
 ## 📫 How to reach me: 
